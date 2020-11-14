@@ -1,4 +1,3 @@
-# Scrapers
-Web-scraper preturi Mega-Image
+# Web scraper preturi mega-image.ro
 
 Programul colecteaza preturile de pe site-ul mega-image.ro si apoi calculeaza media geometrica a produselor alese.
